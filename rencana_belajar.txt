@@ -3,7 +3,8 @@ Rencana belajar teknologi web
     - Object
     - ES6
     - React JS
+    - Angular
+    - Meteor
     
-- Mempelajari buat DOM
 - Belajar Node JS
 - Belajar API
