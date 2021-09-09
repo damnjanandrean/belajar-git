@@ -5,8 +5,8 @@ Rencana belajar teknologi web
     - React JS
     - Vue JS
     - Angular JS
+
     
-- Mempelajari buat DOM
 - Belajar Node JS
     - Express JS
 - Belajar API
