@@ -4,6 +4,7 @@ Rencana belajar teknologi web
     - ES6
     - React JS
     - Vue JS
+    - Angular JS
     
 - Mempelajari buat DOM
 - Belajar Node JS
