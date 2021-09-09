@@ -1,0 +1,4 @@
+Rencana belajar teknologi web
+- Mempelajari javascript
+- Mempelajari buat DOM
+- Belajar Node JS
