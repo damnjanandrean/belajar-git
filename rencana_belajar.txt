@@ -1,0 +1,8 @@
+Rencana belajar teknologi web
+- Mempelajari javascript
+    - Object
+    - ES6
+    - React JS
+    
+- Mempelajari buat DOM
+- Belajar Node JS
