@@ -6,3 +6,4 @@ Rencana belajar teknologi web
     
 - Mempelajari buat DOM
 - Belajar Node JS
+- Belajar API
