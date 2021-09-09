@@ -3,7 +3,11 @@ Rencana belajar teknologi web
     - Object
     - ES6
     - React JS
+    - Vue JS
+    - Angular JS
     
 - Mempelajari buat DOM
 - Belajar Node JS
+    - Express JS
 - Belajar API
+- mESSAGE bROKER
